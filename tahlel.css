@@ -1,0 +1,31 @@
+.tahlel{
+    background-color: #f9edf1 !important;
+}
+.bgBinky{
+    background-color: #F9EDF1 !important;
+}
+.btn-pink{
+    background-color: #F9C0D1;
+    border: 3px solid white;
+    border-radius: 15px;
+    font-size: 20px;
+    font-weight: 200;
+    min-width: 200px;
+    min-height: 50px;
+    -webkit-box-shadow: -14px 15px 20px -11px rgba(0,0,0,0.64);
+    -moz-box-shadow: -14px 15px 20px -11px rgba(0,0,0,0.64);
+    box-shadow: -14px 15px 20px -11px rgba(0,0,0,0.64);
+    
+}
+.natiga{
+    border: 4px solid #FAACC3;
+    width: 70vw;
+    margin: 0 auto;
+    border-radius: 30px;
+    transition: 0.03s;
+}
+.foot{
+    width: 100%;
+    height: 30vh;
+    background-color: #FAACC3;
+}

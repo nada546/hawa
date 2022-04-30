@@ -1,0 +1,186 @@
+.selfCheck {
+  background-color: #f9edf1;
+}
+.question-first {
+  background-color: #faacc3;
+  padding: 10px;
+  border-radius: 20px;
+  color: white !important;
+  height: 10rem;
+  margin-bottom: 2rem;
+  direction: rtl !important;
+  text-align: right !important;
+  position: relative;
+}
+.card-body {
+  background-color: #f9edf1 !important;
+  border: none !important;
+}
+.btn-taly {
+  background-color: #f9c0d1;
+  border: 3px solid white;
+  border-radius: 15px;
+  font-size: 20px;
+  font-weight: 200;
+  min-width: 100px;
+  -webkit-box-shadow: -14px 15px 20px -11px rgba(0, 0, 0, 0.64);
+  -moz-box-shadow: -14px 15px 20px -11px rgba(0, 0, 0, 0.64);
+  box-shadow: -14px 15px 20px -11px rgba(0, 0, 0, 0.64);
+  transition: 0.02s;
+  margin-top: 20px;
+}
+.btn-taly:hover {
+  min-width: 120px;
+  color: white;
+}
+.scrollbar-ripe-malinka {
+  border: 0px;
+}
+.scrollbar-ripe-malinka::-webkit-scrollbar-track {
+  -webkit-box-shadow: inset 0 0 6px rgba(0, 0, 0, 0.1);
+  background-color: #f5f5f5;
+  border-radius: 10px;
+}
+
+.scrollbar-ripe-malinka::-webkit-scrollbar {
+  width: 12px;
+  background-color: #f5f5f5;
+}
+
+.scrollbar-ripe-malinka::-webkit-scrollbar-thumb {
+  border-radius: 10px;
+  -webkit-box-shadow: inset 0 0 6px rgba(0, 0, 0, 0.1);
+  background-image: -webkit-linear-gradient(330deg, #f093fb 0%, #f5576c 100%);
+  background-image: linear-gradient(120deg, #f093fb 0%, #f5576c 100%);
+}
+
+.square::-webkit-scrollbar-track {
+  border-radius: 0 !important;
+}
+
+.square::-webkit-scrollbar-thumb {
+  border-radius: 0 !important;
+}
+
+.thin::-webkit-scrollbar {
+  width: 6px;
+}
+
+.example-1 {
+  position: relative;
+  overflow-y: scroll;
+  height: 60vh;
+}
+
+.btn-Quest {
+  color: white;
+  background-color: #dfd7da;
+  margin-left: 100px;
+  border-radius: 10px;
+  min-width: 80px;
+  -webkit-box-shadow: -14px 15px 20px -11px rgba(0, 0, 0, 0.64);
+  -moz-box-shadow: -14px 15px 20px -11px rgba(0, 0, 0, 0.64);
+  box-shadow: -14px 15px 20px -11px rgba(0, 0, 0, 0.64);
+}
+
+.question__head {
+  font-size: 1.5rem;
+}
+.btncontainer {
+  direction: ltr;
+  margin-right: 15rem;
+}
+.img-Question {
+  width: 150px;
+  position: absolute;
+  bottom: 10px;
+  left: 15px;
+}
+.rerer {
+  direction: ltr !important;
+}
+.foot {
+  width: 100%;
+  height: 30vh;
+  background-color: #faacc3;
+}
+.slideInLeft {
+  -webkit-animation-name: slideInLeft;
+  animation-name: slideInLeft;
+  -webkit-animation-duration: 1s;
+  animation-duration: 1s;
+  -webkit-animation-fill-mode: both;
+  animation-fill-mode: both;
+}
+@-webkit-keyframes slideInLeft {
+  0% {
+    -webkit-transform: translateX(-100%);
+    transform: translateX(-100%);
+    visibility: visible;
+  }
+  100% {
+    -webkit-transform: translateX(0);
+    transform: translateX(0);
+  }
+}
+@keyframes slideInLeft {
+  0% {
+    -webkit-transform: translateX(-100%);
+    transform: translateX(-100%);
+    visibility: visible;
+  }
+  100% {
+    -webkit-transform: translateX(0);
+    transform: translateX(0);
+  }
+}
+.btn-taly:hover{
+  background-color: #d84f78;
+  border: 3px solid white;
+
+}
+.btn-taly:visited{
+  background-color: #d84f78 !important;
+  border: 3px solid white;
+
+}
+
+.modal-content{
+  background-color: #F9EDF1;
+  border-radius: 30px;
+  color: #CE568B;
+  
+  
+  
+}
+
+.modalBody{
+  
+  text-align: center;
+  font-size: 40px !important;
+  color: #CE568B;
+ 
+}
+.rgoo3Cl{
+  text-decoration: none;
+  color: #CE568B;
+  font-size: 40px !important;
+  cursor: pointer;
+}
+.rgoo3Cl:hover{
+  color: #CE568B;
+
+}
+.modal-fullscreen{
+
+  background-image: url('./bg-risk.png') !important;
+  opacity: 0.6;
+
+}
+
+
+
+
+.centering{
+  margin: 30vh auto;
+}

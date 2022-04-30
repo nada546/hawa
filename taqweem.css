@@ -1,0 +1,106 @@
+
+.taqweem{
+    background-color: #f9edf1 !important;
+}
+.nooo
+{
+    background-color: #FFFFFF ;
+    height: 20px;
+    margin-right: 10px;
+    height: 40PX;
+    border-radius: 10px;
+    
+}
+.timeTrack{
+    margin: 0 auto;
+}
+.lastheck{
+    background-color: #AACFCF !important;
+}
+.lastOne{
+    background-color: #EF5C93 !important;
+}
+.secondHalf{
+    position: relative;
+
+}
+.typography{
+    position: absolute;
+    top: 29vh;
+    left: 16vw;
+    font-size: 44px;
+    color: #CE568B;
+}
+.L222{
+    text-align: right !important;
+    
+}
+.secondLine{
+    font-size: 44px;
+
+}
+.widthChecker{
+    max-width : 50px !important;
+}
+.widthChecker2{
+    max-width : 150px !important;
+    color: #CE568B;
+    
+}
+
+.foot{
+    width: 100%;
+    height: 30vh;
+    background-color: #FAACC3;
+}
+.taqweemList{
+    list-style: none;
+    color: #CE568B;
+    font-size: 30px;
+    width : 35vw;
+    
+   
+}
+.taqweemList li{
+    margin-bottom: 30px;
+}
+.taqweemListContainer{
+    border : 2px solid #CE568B;
+    width : 37vw;
+    border-radius: 30px;
+    background-image: url('./bg-risk.png');
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+
+.datetime-input__editPopover___1bQE2{
+
+    top: -29vh !important;
+    left: 2.2vw;
+    bottom: unset !important;
+
+}
+
+.datetime-input__placeholder___1nw_d{
+ background-color: #AACFCF !important;
+ color: #AACFCF ;
+ height: 40px;
+}
+.datetime-input__display___-90kTu{  
+    background-color: #AACFCF !important;
+
+    height: 40px !important;
+}
+.datetime-input__placeholder___1nw_d{
+    height: 40px !important;
+
+}
+.datetime-input__display___10kTu
+        
+        
+      {
+        height: 40px !important;
+
+      }
